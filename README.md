@@ -38,7 +38,7 @@ pip install langchain-ollama langchain-core
 
 Run the script to start chatting:
 ```bash
-python chat_app.py
+python chat-app.py
 ```
 
 Enter your messages and receive responses from the LLM. Type 'exit' to end the conversation.
